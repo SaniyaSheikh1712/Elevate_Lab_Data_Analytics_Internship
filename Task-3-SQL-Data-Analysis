@@ -1,0 +1,43 @@
+# Elevate Lab Task 3: SQL Data Analysis
+
+## Objective
+
+The objective of this project is to use SQL queries to extract, analyze, and summarize data from a relational database. The project focuses on data retrieval, filtering, aggregation, grouping, sorting, and applying SQL functions to derive meaningful insights from the dataset.
+
+## Tools Used
+
+* Microsoft SQL Server
+* SQL Server Management Studio (SSMS)
+* SQL
+
+## SQL Analysis Steps
+
+1. Created and explored the database and required table.
+2. Loaded the dataset into the SQL Server database.
+3. Retrieved data using `SELECT` queries.
+4. Filtered records using the `WHERE` clause.
+5. Sorted data using the `ORDER BY` clause.
+6. Used aggregate functions such as `SUM()`, `AVG()`, `COUNT()`, `MIN()`, and `MAX()`.
+7. Grouped data using the `GROUP BY` clause.
+8. Filtered grouped results using the `HAVING` clause.
+9. Used SQL operators and conditions to analyze specific records.
+10. Performed calculations and generated useful insights from the data.
+11. Executed SQL queries in Microsoft SQL Server.
+12. Captured the query results for documentation.
+
+## Key SQL Concepts Used
+
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* HAVING
+* Aggregate Functions
+* DISTINCT
+* Comparison Operators
+* Logical Operators
+* SQL Functions
+
+## Conclusion
+
+The dataset was successfully analyzed using Microsoft SQL Server. Various SQL queries were used to retrieve, filter, sort, group, and summarize the data. Aggregate functions and grouping techniques helped generate meaningful insights from the dataset. The analysis demonstrates practical knowledge of SQL for data analysis and prepares the data for further reporting and visualization.
